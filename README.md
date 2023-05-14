@@ -1,13 +1,3 @@
-# about-us
-According to marketing giant [HubSpot](http://blog.hubspot.com/marketing/compelling-stats-website-design-optimization-list#sm.0001cetn7014c8e18rzpq1cx3j6uj), 52% of visitors to your website want to see your "about us" page immediately. Your company's about us page says a lot about who you are and will no doubt be seen by at least half of your website's visitors. In this article, [Solodev](https://www.solodev.com/) will provide you with an effective about us page design.
-
-## Tutorial
-
-For detailed instructions, view Solodev's [Designing your Website's About Us Page](https://www.solodev.com/blog/web-design/designing-your-websites-about-us-page.stml) article.
-
-## Demo
-
-Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/L60ok4ge/).
 
 ## HTML
 
@@ -271,15 +261,3 @@ The about us page contains the following basic HTML markup.
 
 All required CSS is in about-us.css
 
-## External Includes
-
-This tutorial contains the following third party resources.
-
-```
-<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-<link rel="stylesheet" href="about-us.css">
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-```
